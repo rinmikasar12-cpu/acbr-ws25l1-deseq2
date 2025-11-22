@@ -10,5 +10,5 @@ R
 # inside R
 ```{R}
 library("DESeq2")
-libary("clusterProfile")
+library("clusterProfiler")
 ```
